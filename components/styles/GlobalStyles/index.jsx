@@ -2,13 +2,13 @@
 import { createGlobalStyle } from 'styled-components';
 
 export const GlobalStyles = createGlobalStyle`
-  ${'' /* @font-face {
+  /* @font-face {
     font-family: 'roboto_regular';
     src: url('/static/roboto-regular.ttf');
     format('ttf');
     font-weight: normal;
     font-style: normal;
-  } */}
+  } */
 
   html, body, div, span, applet, object, iframe,
   h1, h2, h3, h4, h5, h6, p, blockquote, pre,
@@ -31,7 +31,7 @@ export const GlobalStyles = createGlobalStyle`
       vertical-align: baseline;
       box-sizing: border-box; */
       /* font-family: 'Roboto Mono', 'Courier New', Courier, monospace; */
-      font-family: Roboto;
+      font-family: 'Roboto', sans-serif;
       /* color: #353b48; */
   }
 
@@ -42,10 +42,17 @@ export const GlobalStyles = createGlobalStyle`
   }
 
   body {
+      margin: 0;
+      padding: 0;
+      border: 0;
+      font-size: 100%;
+      font: inherit;
+      vertical-align: baseline;
+      box-sizing: border-box;
       line-height: 1;
       font-family:
-        Roboto, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans',
-        'Helvetica Neue', sans-serif;
+        'Roboto', sans-serif;, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell,
+        'Open Sans', 'Helvetica Neue', sans-serif;
       font-size: 16px;
       -webkit-font-smoothing: antialiased;
       -moz-osx-font-smoothing: grayscale;
