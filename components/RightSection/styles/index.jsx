@@ -224,7 +224,7 @@ export const RightSectionStyled = styled.div`
     }
   }
 
-  @media screen and (max-width: 425px) {
+  @media screen and (max-width: 426px) {
     /* position: absolute;
     top: 60%; */
     display: inline;

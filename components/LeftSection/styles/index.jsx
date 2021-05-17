@@ -209,7 +209,7 @@ export const LeftSectionStyled = styled.div`
     }
   }
 
-  @media screen and (max-width: 425px) {
+  @media screen and (max-width: 426px) {
     display: grid;
 
     .logo {
