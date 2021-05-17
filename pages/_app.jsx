@@ -16,7 +16,7 @@ const MyApp = ({ Component, pageProps } = AppProps) => (
     <Head>
       <meta charSet="utf-8" />
       <meta name="viewport" content="initial-scale=1.0, width=device-width" />
-      <title>Resume JesusKata 2021</title>
+      <title>JesusKata</title>
     </Head>
     <Component {...pageProps} />
   </Layout>
