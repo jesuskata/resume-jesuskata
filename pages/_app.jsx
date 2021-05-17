@@ -5,9 +5,6 @@ import PropTypes from 'prop-types';
 import { AppProps } from 'next/app';
 import Head from 'next/head';
 
-// Styles
-// import './styles.css';
-
 // Components
 import { Layout } from '../components/Layout';
 
@@ -16,7 +13,7 @@ const MyApp = ({ Component, pageProps } = AppProps) => (
     <Head>
       <meta charSet="utf-8" />
       <meta name="viewport" content="initial-scale=1.0, width=device-width" />
-      <title>JesusKata</title>
+      <title>JesusKata | Energía Solar, Desarrollo de Software y Diseño Gráfico</title>
     </Head>
     <Component {...pageProps} />
   </Layout>
