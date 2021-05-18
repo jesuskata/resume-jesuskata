@@ -8,7 +8,7 @@
         "email": "me@jesuskata.com",
         "website": "https://jesuskata.com",
         "phone": "+52 953 11 90765",
-        "avatar": "https://avatars.githubusercontent.com/u/24985495?v=4",
+        "avatar": "https://res.cloudinary.com/jesuskata/image/upload/c_crop,h_2316,w_2316/v1615339834/jesuskata/604821193fced90bc3ca1f16.jpg",
         "projects": [
             {
                 "name": "Pokédex in ReactJS",
