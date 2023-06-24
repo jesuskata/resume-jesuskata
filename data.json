@@ -1,8 +1,8 @@
 {
     "data": {
         "logo": "https://res.cloudinary.com/jesuskata/image/upload/v1621285309/jesuskata/logo-jesuskata_jz4n7z.png",
-        "name": "Alex",
-        "profession": "Software Developer",
+        "name": "Alejandro Romero",
+        "profession": "Industrial Engineer",
         "position": "Software Developer",
         "address": "Mexico",
         "email": "me@jesuskata.com",
@@ -42,7 +42,7 @@
             },
             {
                 "startDate": "2017",
-                "endDate": "actualidad",
+                "endDate": "2021",
                 "degree": "Ingeniería en Desarrollo de Software",
                 "institution": "Universidad Abierta y a Distancia de México",
                 "description": {
@@ -52,7 +52,7 @@
             },
             {
                 "startDate": "2015",
-                "endDate": "actualidad",
+                "endDate": "2021",
                 "degree": "Software | Diseño | Marketing",
                 "institution": "Platzi",
                 "description": {
@@ -65,7 +65,7 @@
             {
                 "code": "010421",
                 "startDate": "ene/2021",
-                "endDate": "actualidad",
+                "endDate": "sep/2021",
                 "company": "SoftTek",
                 "jobTitle": "Software Engineer",
                 "activities": [
@@ -91,7 +91,7 @@
                 "startDate": "nov/2013",
                 "endDate": "sep/2021",
                 "company": "Kata",
-                "jobTitle": "Technical",
+                "jobTitle": "Tech Lead",
                 "activities": [
                     "Comercialización y ejecución de obras fotovoltaicas",
                     "Diseño de soluciones fotovoltaicas",
@@ -102,22 +102,22 @@
         "social": [
             {
                 "name": "linkedin",
-                "url": "https://www.linkedin.com/in/jesuskata",
+                "url": "https://www.linkedin.com",
                 "image": "https://res.cloudinary.com/jesuskata/image/upload/v1621285309/jesuskata/icon-linkedin_oxz7ha.png"
             },
             {
                 "name": "platzi",
-                "url": "https://platzi.com/@jesuskata",
+                "url": "https://platzi.com",
                 "image": "https://res.cloudinary.com/jesuskata/image/upload/v1621285309/jesuskata/icon-platzi_xfoy94.png"
             },
             {
                 "name": "github",
-                "url": "https://github.com/jesuskata",
+                "url": "https://github.com",
                 "image": "https://res.cloudinary.com/jesuskata/image/upload/v1621285309/jesuskata/icon-github_nvszji.png"
             },
             {
                 "name": "gitlab",
-                "url": "https://gitlab.com/jesuskata",
+                "url": "https://gitlab.com",
                 "image": "https://res.cloudinary.com/jesuskata/image/upload/v1621285308/jesuskata/icon-gitlab_wlvqgn.png"
             }
         ],
@@ -133,7 +133,7 @@
         ],
         "footer": {
             "year": "2023",
-            "user": "alex"
+            "user": "Alejandro Romero"
         }
     }
 }
