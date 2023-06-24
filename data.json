@@ -1,13 +1,13 @@
 {
     "data": {
         "logo": "https://res.cloudinary.com/jesuskata/image/upload/v1621285309/jesuskata/logo-jesuskata_jz4n7z.png",
-        "name": "Jesús Alejandro Romero Zárate",
-        "profession": "Energía Solar | Software Developer | Designer",
-        "position": "CEO en Kata | Software Engineer en SoftTek",
-        "address": "Huajuapan de Leon, Oaxaca, Mexico",
+        "name": "Alex",
+        "profession": "Software Developer",
+        "position": "Software Developer",
+        "address": "Mexico",
         "email": "me@jesuskata.com",
         "website": "https://jesuskata.com",
-        "phone": "+52 953 11 90765",
+        "phone": "",
         "avatar": "https://res.cloudinary.com/jesuskata/image/upload/c_crop,h_2316,w_2316/v1615339834/jesuskata/604821193fced90bc3ca1f16.jpg",
         "projects": [
             {
@@ -57,7 +57,7 @@
                 "institution": "Platzi",
                 "description": {
                     "title": "Cursos terminados",
-                    "url": "https://platzi.com/@jesuskata"
+                    "url": "https://platzi.com"
                 }
             }
         ],
@@ -89,9 +89,9 @@
             {
                 "code": "110113",
                 "startDate": "nov/2013",
-                "endDate": "actualidad",
+                "endDate": "sep/2021",
                 "company": "Kata",
-                "jobTitle": "CEO & Co-Founder",
+                "jobTitle": "Technical",
                 "activities": [
                     "Comercialización y ejecución de obras fotovoltaicas",
                     "Diseño de soluciones fotovoltaicas",
@@ -132,8 +132,8 @@
             }
         ],
         "footer": {
-            "year": "2021",
-            "user": "JesusKata"
+            "year": "2023",
+            "user": "alex"
         }
     }
 }
